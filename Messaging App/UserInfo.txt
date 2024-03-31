@@ -1,6 +1,0 @@
-parth,123,email.com,Customer
-Ansh
-null
-Ansh,123,dokdwok.com,Seller,Nike
-parth
-null
