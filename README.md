@@ -1,7 +1,7 @@
 # Portfolio
-Personal Projects of Mine: 
+Personal Projects of Mine 
 
-
+-----------------------------------------------------------------------------------------------------------------------
 Messaging App (Java GUI)
 - A messaging app built to communicate between 2 types of users (Customers & Sellers)
 - Built using Java GUI with Swing library
